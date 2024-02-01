@@ -146,6 +146,9 @@ Finalist entries to the O'Reilly Software Architecture Katas give us excellent e
 
 > Listed in alphabetical order with no ranking.
 
+- [da Vinci](https://github.com/TheKataLog/da-Vinci)
+- [Hananoyama](https://github.com/TheKataLog/Hananoyama)
+- [Hey Dragon](https://github.com/TheKataLog/Hey-Dragon)
 - [Jaikaturi](https://github.com/TheKataLog/Jaikaturi)
 - [Self-Driven Team](https://github.com/TheKataLog/Self-Driven-Team)
 - [Super Kings](https://github.com/TheKataLog/Super-Kings)
