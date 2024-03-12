@@ -8,6 +8,7 @@ Finalist entries to the O'Reilly Software Architecture Katas give us excellent e
 
 ## Content
 
+- <a href="#win24">Finalists: Winter 2024</a>
 - <a href="#fall23">Finalists: Autumn/Fall 2023</a>
 - <a href="#fallex23">Finalists: Autumn/Fall (external) 2023</a>
 - <a href="#fall22">Finalists: Autumn/Fall 2022</a>
@@ -17,11 +18,30 @@ Finalist entries to the O'Reilly Software Architecture Katas give us excellent e
 - <a href="#fall20">Finalists: Autumn/Fall 2020</a>
 - <a href="#oreillykatas">O'Reilly Architectural Katas</a>
 
+<a name="win24"></a>
+
+## Finalists: Winter 2024
+
+> GitHub Repositories of the top 4 (joint 3rd place) and runners-up of the O'Reilly Winter Architecture Kata 2024.
+
+1. [BluzBrothers](https://github.com/TheKataLog/BluzBrothers)
+2. [Mighty Orbots](https://github.com/TheKataLog/Mighty-Orbots)
+3=. [Low Codes](https://github.com/TheKataLog/LowCode)
+3=. [Architects Evolution Zone](https://github.com/TheKataLog/AchitectsEvolutionZone)
+
+### Runners-Up
+
+> Listed in alphabetical order with no ranking.
+
+- [InfyArchs](https://github.com/TheKataLog/InfyArchs)
+- [Safezone Cartons](https://github.com/TheKataLog/Safezone-Cartons)
+- [Systems Savants](https://github.com/TheKataLog/Systems-Savants)
+
 <a name="fall23"></a>
 
 ## Finalists: Autumn/Fall 2023
 
-> GitHub Repositories of the top 3 and runners-up of the O'Reilly Autumn/Fall Architecture Kata 2022.
+> GitHub Repositories of the top 3 and runners-up of the O'Reilly Autumn/Fall Architecture Kata 2023.
 
 1. [CELUS Ceals](https://github.com/TheKataLog/Celus-Ceals)
 2. [Rapid Response](https://github.com/TheKataLog/Rapid-Response)
