@@ -26,8 +26,8 @@ Finalist entries to the O'Reilly Software Architecture Katas give us excellent e
 
 1. [BluzBrothers](https://github.com/TheKataLog/BluzBrothers)
 2. [Mighty Orbots](https://github.com/TheKataLog/Mighty-Orbots)
-3=. [Low Codes](https://github.com/TheKataLog/LowCode)
-3=. [Architects Evolution Zone](https://github.com/TheKataLog/AchitectsEvolutionZone)
+3. = [Low Codes](https://github.com/TheKataLog/LowCode)
+3. = [Architects Evolution Zone](https://github.com/TheKataLog/AchitectsEvolutionZone)
 
 ### Runners-Up
 
