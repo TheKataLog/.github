@@ -1,8 +1,8 @@
 # The Kata Log
 
-by [Read the Architecture](https://readthearchitecture.com)
+by [Jacqui Read](https://jacquiread.com/?mtm_campaign=tech&mtm_source=katalog)
 
-<img src="assets/KataLog-1280x220.png" alt="The Kata Log" style="zoom:50%;" />
+<img src="/assets/KataLog-1280x220.png" alt="The Kata Log" style="zoom:50%;" />
 
 Finalist entries to the O'Reilly Software Architecture Katas give us excellent examples of how to approach architecting software. No two are the same, despite following the same original brief. **How could you use these examples in your own work?**
 
