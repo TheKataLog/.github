@@ -8,6 +8,7 @@ Finalist entries to the O'Reilly Software Architecture Katas give us excellent e
 
 ## Content
 
+- <a href="#fall24">Finalists: Autumn/Fall 2024</a>
 - <a href="#win24">Finalists: Winter 2024</a>
 - <a href="#fall23">Finalists: Autumn/Fall 2023</a>
 - <a href="#fallex23">Finalists: Autumn/Fall (external) 2023</a>
@@ -17,6 +18,25 @@ Finalist entries to the O'Reilly Software Architecture Katas give us excellent e
 - <a href="#spring21">Finalists: Spring 2021</a>
 - <a href="#fall20">Finalists: Autumn/Fall 2020</a>
 - <a href="#oreillykatas">O'Reilly Architectural Katas</a>
+
+<a name="fall24"></a>
+
+## Finalists: Autumn/Fall 2024
+
+> GitHub Repositories of the top 3 and runners-up of the O'Reilly Autumn/Fall Architecture Kata 2024.
+
+1. [Pragmatic](https://github.com/TheKataLog/Pragmatic)
+2. [Katamarans](https://github.com/TheKataLog/Katamarans)
+3. [Ctrl+Alt+Elite](https://github.com/TheKataLog/Ctrl-Alt-Elite)
+
+### Runners-Up
+
+> Listed in alphabetical order with no ranking.
+
+- [ArchZ](https://github.com/TheKataLog/ArchZ)
+- [DevExperts](https://github.com/TheKataLog/DevExperts)
+- [Equihire Architects](https://github.com/TheKataLog/Equihire-Architects)
+- [Jazz Executor](https://github.com/TheKataLog/Jazz-Executor)
 
 <a name="win24"></a>
 
