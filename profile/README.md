@@ -8,6 +8,7 @@ Finalist entries to the O'Reilly Software Architecture Katas give us excellent e
 
 ## Content
 
+- <a href="#aiwin24">Finalists: AI Winter 2024</a>
 - <a href="#fall24">Finalists: Autumn/Fall 2024</a>
 - <a href="#win24">Finalists: Winter 2024</a>
 - <a href="#fall23">Finalists: Autumn/Fall 2023</a>
@@ -18,6 +19,24 @@ Finalist entries to the O'Reilly Software Architecture Katas give us excellent e
 - <a href="#spring21">Finalists: Spring 2021</a>
 - <a href="#fall20">Finalists: Autumn/Fall 2020</a>
 - <a href="#oreillykatas">O'Reilly Architectural Katas</a>
+
+<a name="aiwin24"></a>
+
+## Finalists: AI Winter 2024
+The AI kata is different to the software architecture katas. Teams have to implement their solution, and provide a lot less documentation. It is unlikely you can use the bot, but you can see the documentation and a screenshot of the bot where possible.
+
+> GitHub Repositories of the top 3 and runners-up of the O'Reilly Winter AI Kata 2024.
+
+1. [ConnectedAI](https://github.com/TheKataLog/ConnectedAI) | [bot screenshot](/assets/screenshots/2024-AI-kata-connectedai.png)
+2. [Breakwater](https://github.com/TheKataLog/Breakwater) | [bot screenshot](/assets/screenshots/2024-AI-kata-breakwater.png)
+3. [Transformers](https://github.com/TheKataLog/Transformers)
+
+### Runners-Up
+
+> Listed in alphabetical order with no ranking.
+
+- Avanza Solutions (repo missing) | [bot screenshot](/assets/screenshots/2024-AI-kata-avanza.png)
+- [IntelliMutual](https://github.com/TheKataLog/IntelliMutual) | [bot screenshot](/assets/screenshots/2024-AI-kata-intellimutual.png)
 
 <a name="fall24"></a>
 
