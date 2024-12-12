@@ -29,7 +29,7 @@ The AI kata is different to the software architecture katas. Teams have to imple
 
 1. [ConnectedAI](https://github.com/TheKataLog/ConnectedAI) | [bot screenshot](/assets/screenshots/2024-AI-kata-connectedai.png)
 2. [Breakwater](https://github.com/TheKataLog/Breakwater) | [bot screenshot](/assets/screenshots/2024-AI-kata-breakwater.png)
-3. [Transformers](https://github.com/TheKataLog/Transformers)
+3. [Transformers](https://github.com/TheKataLog/Transformers) | [bot screenshot](https://github.com/Syam916/oreally_sql/blob/master/image%20(1).png)
 
 ### Runners-Up
 
