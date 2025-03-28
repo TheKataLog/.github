@@ -8,6 +8,7 @@ Finalist entries to the O'Reilly Software Architecture Katas give us excellent e
 
 ## Content
 
+- <a href="#win25">Finalists: Winter 2025</a>
 - <a href="#aiwin24">Finalists: AI Winter 2024</a>
 - <a href="#fall24">Finalists: Autumn/Fall 2024</a>
 - <a href="#win24">Finalists: Winter 2024</a>
@@ -19,6 +20,25 @@ Finalist entries to the O'Reilly Software Architecture Katas give us excellent e
 - <a href="#spring21">Finalists: Spring 2021</a>
 - <a href="#fall20">Finalists: Autumn/Fall 2020</a>
 - <a href="#oreillykatas">O'Reilly Architectural Katas</a>
+
+<a name="win25"></a>
+
+## Finalists: Winter 2025 - AI-Enabled Architecture
+
+> GitHub Repositories of the top 3 and runners-up of the O'Reilly Winter Architecture Kata 2025.
+
+1. [ZAITects](https://github.com/TheKataLog/ZAITects)
+2. [Litmus](https://github.com/TheKataLog/Litmus)
+3. [Software Architecture Guild](https://github.com/TheKataLog/Software-Architecture-Guild)
+
+### Runners-Up
+
+> Listed in alphabetical order with no ranking.
+
+- [Data Arch Evangelists](https://github.com/TheKataLog/Data-Arch-Evangelists)
+- [Deep Archs](https://github.com/TheKataLog/Deep-Archs)
+- [Knowledge Out of Range Exception](https://github.com/TheKataLog/Knowledge-Out-of-Range-Exception)
+- [Usfive](https://github.com/TheKataLog/Usfive)
 
 <a name="aiwin24"></a>
 
